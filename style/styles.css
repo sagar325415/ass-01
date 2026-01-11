@@ -66,6 +66,8 @@
   border-radius:20px;
   color:#469165;
   width: max-content;
+  cursor: pointer;
+  
 
 }
 
@@ -99,6 +101,7 @@
   border: 1px solid white;
   padding: 12px 16px;
   color: white;
+  cursor: pointer;
 }
 
 
